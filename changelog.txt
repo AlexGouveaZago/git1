@@ -1,2 +1,1 @@
-alterando arquivo
-testando
+Criacao dasta pasta para testes iniciais com o git
